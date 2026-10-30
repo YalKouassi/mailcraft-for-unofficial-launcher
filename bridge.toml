@@ -17,6 +17,7 @@ publisher = "UCS Care Group"
 bundle_id = "io.github.billsecond.mailcraft"   # upstream's Flatpak, desktop-file and Info.plist id
 msi_publisher = "MailCraft contributors"        # Manufacturer in upstream's MSI
 website = "https://github.com/UCS-Care-Group/mailcraft"
+web_demo = "https://playground.daijro.dev/mailcraft/"   # playground.daijro.dev's build of the latest release
 color = "#b3202a"
 
 [icon]
